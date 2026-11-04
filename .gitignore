@@ -1,0 +1,13 @@
+# Final project lives in its own repository (structml-relational-gnn-ablations)
+project/
+
+# Course PDFs, logs, caches and large intermediate arrays
+*.pdf
+*.log
+*.err
+*.html
+*.npz
+_q9_output.txt
+__pycache__/
+*.pyc
+.claude/
