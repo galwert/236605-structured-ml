@@ -11,3 +11,4 @@ _q9_output.txt
 __pycache__/
 *.pyc
 .claude/
+*.tar.gz
